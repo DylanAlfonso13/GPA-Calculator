@@ -19,7 +19,7 @@ class Login extends JFrame implements ActionListener {
     private JButton loginButton;
 
     
-    //Login Panel!!
+    //Login Panel
     public Login() {
         JPanel panel = new JPanel();
         setTitle("Login");
